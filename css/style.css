@@ -110,7 +110,8 @@ img {
     width: 50%;
   } 
   #steps .row>.right {
-    margin: 10px 230px;
+    margin:0 25%;
+    width: calc(50% -50%);
   }
 
   #why .row>.first,
